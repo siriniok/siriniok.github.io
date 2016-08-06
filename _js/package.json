@@ -1,0 +1,17 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "NPM dependencies for the blog",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siriniok/siriniok.github.io.git"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Vladyslav Siriniok <siriniok@gmail.com> (siriniok.github.io)",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
