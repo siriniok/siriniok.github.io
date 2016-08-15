@@ -1,11 +1,13 @@
-title: Vladyslav Siriniok
+title: A Bottle of Code
 email: siriniok@gmail.com
 description: >
-  mnmlist, developer, writer
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://siriniok.github.io" # the base hostname & protocol for your site
+  Notes on drinking code.
+baseurl: ""
+url: "https://siriniok.github.io"
 twitter_username: siriniok
 github_username:  siriniok
 
 # Build settings
 markdown: kramdown
+exclude:
+  - docs
