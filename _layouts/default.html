@@ -7,7 +7,7 @@
 
     {% include header.html %}
 
-    <section id="personal-site">
+    <section id="baseline"> <!-- class="show-grid" -->
       <div class="section typeset">
         <div class="single">
           {{ content }}
@@ -17,6 +17,11 @@
 
     {% include footer.html %}
 
+    <script src="/vendor/assets/js/responsive-nav.min.js"></script>
+
+    <script>
+      var navigation = responsiveNav('.main-nav');
+    </script>
   </body>
 
 </html>
