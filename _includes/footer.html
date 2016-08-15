@@ -1,30 +1,9 @@
-<footer class="site-footer">
+<footer class="global-footer">
 
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-          @siriniok:
-        <ul class="social-media-list">
-          <li><a href="site.github_username">Github</a></li>
-          <li><a href="site.twitter_username">Twitter</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description }}</p>
-      </div>
-    </div>
-
-  </div>
+  <p>
+    © {{ site.time | date: '%Y' }}
+    <a href="{{ site.baseurl }}">VLADYSLAV SIRINIOK</a>
+    All rights reserved.
+  </p>
 
 </footer>
