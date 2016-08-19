@@ -7,14 +7,21 @@
 
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
+    <section id="baseline"> <!-- class="show-grid" -->
+      <div class="section typeset">
+        <div class="single">
+          {{ content }}
+        </div>
       </div>
-    </div>
+    </section>
 
     {% include footer.html %}
 
+    <script src="/vendor/assets/js/responsive-nav.min.js"></script>
+
+    <script>
+      var navigation = responsiveNav('.main-nav');
+    </script>
   </body>
 
 </html>

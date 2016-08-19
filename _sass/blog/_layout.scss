@@ -1,0 +1,57 @@
+/**
+ * Clearfix
+ */
+%clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+
+
+/**
+ * Single column
+ */
+.single {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+
+
+/**
+ * Site header
+ */
+.global-header {
+  background-color: $backgroundColour;
+
+  .global-header__logo {
+    background-image: url(../../assets/logo.svg);
+    background-repeat: no-repeat;
+    background-size: 19px 19px;
+  }
+}
+
+
+
+/**
+ * Site navigation
+ */
+.js {
+  .nav-toggle {
+    &:after {
+      background-image: url(../../assets/menu.svg);
+    }
+  }
+}
+
+
+
+/**
+ * Site footer
+ */
+.global-footer {
+  border-top: 1px solid $grey-color-light;
+}
