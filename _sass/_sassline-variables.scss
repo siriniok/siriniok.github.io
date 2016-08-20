@@ -33,19 +33,19 @@ $measures: (
   measure-0: 500,  // 500px wide
   measure-1: 550,  // 550px wide
   measure-2: 600,  // 600px wide
-  measure-3: 680,  // 680px wide
-  measure-4: 750   // 750px wide
-) !default;
+  measure-3: 700,  // 700px wide
+  measure-4: 700   // 700px wide
+);
 
 // Set the max-widths for containers (based on design).
 // ! Make sure to have as many widths as breakpoints above.
 $maxwidths: (
   width-0: 500,  // 500px wide
   width-1: 600,  // 600px wide
-  width-2: 800,  // 800px wide
-  width-3: 1100, // 110px wide
-  width-4: 1300  // 1300px wide
-) !default;
+  width-2: 700,  // 700px wide
+  width-3: 700,  // 700px wide
+  width-4: 800   // 800px wide
+);
 
 // Gutter widths
 $gutterwidths: (
