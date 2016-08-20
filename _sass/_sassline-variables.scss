@@ -21,9 +21,9 @@ $rootsizes: (
   rootsize-0: 12,   // 24px line-height body text
   rootsize-1: 14,   // 28px line-height body text
   rootsize-2: 15,   // 30px line-height body text
-  rootsize-3: 17,   // 34px line-height body text
-  rootsize-4: 19    // 38px line-height body text
-) !default;
+  rootsize-3: 16,   // 32px line-height body text
+  rootsize-4: 17    // 34px line-height body text
+);
 
 // Set the optimum line-length for your text (based on typeface).
 // Aim for 75–100 characters a line when possible, at smaller sizes type size is more important.
@@ -33,19 +33,19 @@ $measures: (
   measure-0: 500,  // 500px wide
   measure-1: 550,  // 550px wide
   measure-2: 600,  // 600px wide
-  measure-3: 680,  // 680px wide
-  measure-4: 750   // 750px wide
-) !default;
+  measure-3: 700,  // 700px wide
+  measure-4: 700   // 700px wide
+);
 
 // Set the max-widths for containers (based on design).
 // ! Make sure to have as many widths as breakpoints above.
 $maxwidths: (
   width-0: 500,  // 500px wide
   width-1: 600,  // 600px wide
-  width-2: 800,  // 800px wide
-  width-3: 1100, // 110px wide
-  width-4: 1300  // 1300px wide
-) !default;
+  width-2: 700,  // 700px wide
+  width-3: 700,  // 700px wide
+  width-4: 800   // 800px wide
+);
 
 // Gutter widths
 $gutterwidths: (
@@ -69,14 +69,14 @@ $headingtype: (
   font-family: 'Oswald, "Helvetica Neue", Helvetica, sans-serif',
   regular: 400,
   bold: 700,
-  cap-height: 0.66
+  cap-height: 0.89
 );
 
 $monospacetype: (
   font-family: 'Consolas, "Liberation Mono", Menlo, Courier, monospace',
   regular: 400,
-  cap-height: 0.68
-) !default;
+  cap-height: 0.66
+);
 
 // Here are some local fonts cap-height sizes to get you started:
 // Georgia: 0.66, Times / Times New Roman: 0.65, Palatino: 0.52
