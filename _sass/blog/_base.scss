@@ -1,0 +1,6 @@
+// Inline code.
+code.highlighter-rouge{
+  background-color: $white;
+
+  @include baseline($fontsize: epsilon, $font: $bodytype, $lineheight: 1.5, $below: 1.5, $breakpoint: all);
+}
