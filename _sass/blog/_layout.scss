@@ -54,4 +54,10 @@
  */
 .global-footer {
   border-top: 1px solid $grey-color-light;
+
+  p {
+    @include fontsize(theta, all);
+
+    font-family: unquote(map-get($bodytype, font-family));
+  }
 }
