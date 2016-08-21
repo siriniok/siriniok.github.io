@@ -1,0 +1,15 @@
+// Greeting block
+.greeting {
+  text-align: center;
+}
+
+// Profile photo
+.profile-photo {
+  margin-bottom: 25px;
+
+  img {
+    max-width: 180px;
+    border-radius: 50%;
+    border: 8px solid $green;
+  }
+}
