@@ -102,7 +102,7 @@ $logoWidth: 300px;
  * Site footer
  */
 .global-footer {
-  border-top: 1px solid $grey-color-light;
+  border-top: 1px solid $captionColour;
 
   p {
     @include fontsize(theta, all);
