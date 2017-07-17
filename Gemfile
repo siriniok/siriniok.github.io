@@ -1,3 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll-compose', group: [:jekyll_plugins]
+group :jekyll_plugins do
+  gem 'octopress-debugger'
+  gem 'jekyll-compose'
+end

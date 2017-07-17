@@ -11,3 +11,6 @@ github_username:  siriniok
 markdown: kramdown
 exclude:
   - docs
+
+plugins:
+  - octopress-debugger
