@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My MIT Challenge
-date: '2017-05-01 22:00:00 +0300'
+date: '2018-01-01 20:00:00 +0200'
 categories: learning
 ---
 
@@ -41,13 +41,13 @@ I had used the latest [MIT curriculum](http://www.eecs.mit.edu/curriculum2016). 
 
 ###### [6.001 Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
 _\(Prereq: None\)_
-May-June 2017
+January 2018
 
 Actually, new curriculum requires modern 6.0001 program. But I don't want to learn basics of Python, so I replaced this one with legendary SICP course. There are two online versions of the book: [original](https://mitpress.mit.edu/sicp/) and [modern](http://sarabander.github.io/sicp/).
 
 ###### [6.01SC Introduction to EE and CS I](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
 _\(Prereq: None; Coreq: Physics II \(GIR\)\)_
-August 2017
+May 2018
 
 ### Math & Physics
 
@@ -55,91 +55,91 @@ Apart of the required classes, I'm going to take some additional courses in math
 
 ###### [18.01SC Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 _\(Prereq: None\)_
-June 2017
+February 2018
 
 ###### [18.02SC Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 _\(Prereq: Calculus I \(GIR\)\)_
-July 2017
+March 2018
 
 ###### [8.01L Physics I: Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01l-physics-i-classical-mechanics-fall-2005/)
 _\(Prereq: None\)_
-July 2017
+May 2018
 
 Also, I want to read [The Feynman Lectures on Physics](http://feynmanlectures.caltech.edu/).
 
 ###### [8.02 Physics II: Electricity and Magnetism](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007)
 _\(Prereq: Physics I \(GIR\), Calculus I \(GIR\)\)_
-August 2017
+June 2018
 
 ###### [6.042J Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
 _\(Prereq: Calculus I \(GIR\)\)_
-September 2017
+June 2018
 
 ###### [18.03SC Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)
 _\(Prereq: None. Coreq: Calculus II \(GIR\)\)_
-January 2018
+October 2018
 
 ###### [18.06SC Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 _\(Prereq: Calculus II \(GIR\)\)_
-February 2018
+November 2018
 
 ###### [6.041SC	Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
 _\(Prereq: Calculus II \(GIR\)\)_
-March 2018
+July 2018
 
 
 ### Foundation
 
 ###### [6.004 Computation Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/)
 _\(Prereq: Physics II \(GIR\)\)_
-October 2017
+August 2018
 
 ###### [6.005 Software Construction (or 6.031 if available)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/)
 _\(Prereq: 6.01; Coreq: 6.042J\)_
-November 2017
+August 2018
 
 ###### [6.006 Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 _\(Prereq: 6.042[J]; 6.01\)_
-November 2017
+September 2018
 
 
 ### Additional
 
 ###### [6.034 Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
 _\(Prereq: 6.001\)_
-September 2017
+July 2018
 
 ###### [6.803 The Human Intelligence Enterprise](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-803-the-human-intelligence-enterprise-spring-2006/)
 _\(Prereq: 6.034\)_
-October 2017
+August 2018
 
 ###### [6.050J Information and Entropy](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/)
 _\(Prereq: Physics I (GIR)\)_
-October 2017
+July 2018
 
 ###### [6.033 Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/)
 _\(Prereq: 6.004; 6.005 or 6.009\)_
-December 2017
+September 2018
 
 ###### [6.814 Database Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/)
 _\(Prereq: 6.033; 6.046[J] or 6.006\)_
-December 2017
+October 2018
 
 ###### [6.045J Automata, Computability, and Complexity](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/)
 _\(Prereq: 6.042J\)_
-January 2018
+November 2018
 
 ###### [6.172 Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/)
 _\(Prereq: 6.004, 6.006; 6.005 or 6.031\)_
-February 2018
+November 2018
 
 ###### [6.035 Computer Language Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-spring-2010/)
 _\(Prereq: 6.004; 6.005 or 6.031\)_
-March 2018
+December 2018
 
 ###### [6.207J Networks](https://ocw.mit.edu/courses/economics/14-15j-networks-fall-2009/)
 _\(Prereq: 6.041SC\)_
-April 2018
+December 2018
 
 ## Rules on Exams
 
