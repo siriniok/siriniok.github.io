@@ -1,0 +1,41 @@
+.main-nav__list {
+  margin-top: 1rem;
+
+  @include breakpoint(break-1) {
+    margin-top: 0.2rem;
+    text-align: right;
+  }
+}
+
+.main-nav__list-item {
+  @include fontsize(delta, all);
+
+  font-family: unquote(map-get($headingtype, font-family));
+  font-style: normal;
+  font-weight: map-get($headingtype, regular);
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+
+  display: inline-block;
+  margin-right: 1.7rem;
+
+  &:last-child {
+    @include breakpoint(break-1) {
+      margin-right: 0;
+    }
+  }
+}
+
+.main-nav__list-item-link {
+  user-select: none;
+  cursor: pointer;
+  color: $captionColour;
+
+  &:hover, &:active, &:focus {
+    color: $linkColour;
+  }
+
+  @include breakpoint(break-1) {
+    padding: 0;
+  }
+}

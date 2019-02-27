@@ -1,21 +1,23 @@
 <header class="global-header">
-  <span class="global-header__logo">
-    <a href="{{ site.baseurl }}">{{ site.title }}</a>
-  </span>
+  <section class="global-header__title">
+    <a class="site-title" href="{{ site.baseurl }}">{{ site.title }}</a>
+  </section>
 
-  <nav class="main-nav">
-    <ul class="main-nav__list">
-      <li>
-        <a href="{{ 'learning/2018/01/01/mit-challenge.html' | prepend: site.baseurl }}">
-          MIT
-        </a>
-      </li>
+  <section class="global-header__nav">
+    <nav class="main-nav">
+      <ul class="main-nav__list">
+        <li class="main-nav__list-item">
+          <a class="main-nav__list-item-link" href="{{ 'learning/2018/01/01/mit-challenge.html' | prepend: site.baseurl }}">
+            MIT
+          </a>
+        </li>
 
-      <li>
-        <a href="{{ 'articles' | prepend: site.baseurl }}">
-          Articles
-        </a>
-      </li>
-    </ul>
-  </nav>
+        <li class="main-nav__list-item">
+          <a class="main-nav__list-item-link" href="{{ 'articles' | prepend: site.baseurl }}">
+            Blog
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </section>
 </header>

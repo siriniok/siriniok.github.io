@@ -1,0 +1,47 @@
+.global-header {
+  margin: 2.6rem 1.5rem 2rem;
+
+  @include breakpoint(break-1) {
+    display: flex;
+    max-width: 600px;
+    margin: 2.6rem auto 2rem;
+  }
+
+  @include breakpoint(break-2) {
+    max-width: 700px;
+  }
+
+  @include breakpoint(break-3) {
+    max-width: 750px;
+  }
+
+  @include breakpoint(break-4) {
+    max-width: 900px;
+  }
+}
+
+.global-header__title {
+  @include breakpoint(break-1) {
+    width: 70%;
+  }
+}
+
+.site-title {
+  @include fontsize(alpha, all);
+
+  font-family: unquote(map-get($headingtype, font-family));
+  font-weight: map-get($headingtype, bold);
+  letter-spacing: 0.03rem;
+
+  @include breakpoint(break-3) {
+    @include fontsize(beta, all);
+  }
+}
+
+.global-header__nav {
+  font-size: 0;
+
+  @include breakpoint(break-1) {
+    width: 40%;
+  }
+}

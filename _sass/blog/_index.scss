@@ -1,5 +1,6 @@
 // Greeting block
 .greeting {
+  margin-top: 40px;
   text-align: center;
 }
 
@@ -8,8 +9,8 @@
   margin-bottom: 25px;
 
   img {
-    max-width: 180px;
+    width: 190px;
     border-radius: 50%;
-    border: 8px solid $green;
+    border: 7px solid lighten($captionColour, 10%);
   }
 }
