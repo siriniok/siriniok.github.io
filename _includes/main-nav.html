@@ -1,0 +1,18 @@
+<nav class="main-nav">
+  <ul class="main-nav__list">
+    {% for item in site.data.menu %}
+      <li class="main-nav__list-item">
+        {% if page.url == item.link %}
+          <span class="main-nav__list-item-current">
+            {{item.name}}
+          </span>
+        {% else %}
+          <a class="main-nav__list-item-link"
+             href="{{ item.link | prepend: site.baseurl }}">
+            {{item.name}}
+          </a>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</nav>

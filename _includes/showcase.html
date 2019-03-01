@@ -1,0 +1,17 @@
+<section class="showcase typeset">
+  <div class="single-measure">
+    <h3 class="showcase-title">Check Out My Writings:</h3>
+    <ul class="post-list">
+      {% for post in site.posts limit:10 %}
+        <li>
+          <h3>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h3>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <p>
+      <a href="{{ site.baseurl }}/articles">View All</a>
+    </p>
+</section>
