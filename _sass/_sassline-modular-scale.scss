@@ -5,15 +5,15 @@
 $modular-scale: (
   // Major Third http://www.modularscale.com/?16,28&px&1.25&web&text
   scale-0: (
-    alpha:   28.0,
-    beta:    25.0,
-    gamma:   22.4,
-    delta:   20.0,
-    epsilon: 17.9,
-    zeta:    16.0,
-    eta:     14.3,
-    theta:   12.8,
-    iota:    11.5
+    alpha:   30.0,
+    beta:    26.6,
+    gamma:   24.0,
+    delta:   21.3,
+    epsilon: 19.2,
+    zeta:    17.0,
+    eta:     15.3,
+    theta:   13.6,
+    iota:    12.8
   ),
   // Major Third http://www.modularscale.com/?17,30&px&1.25&web&text
   scale-1: (
@@ -63,4 +63,4 @@ $modular-scale: (
     theta:   15.6,
     iota:    12.5
   )
-) !default;
+);
