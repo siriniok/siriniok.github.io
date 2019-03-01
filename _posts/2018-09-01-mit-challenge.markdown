@@ -1,9 +1,12 @@
 ---
 layout: post
 title: My MIT Challenge
-date: '2018-01-01 20:00:00 +0200'
+date: '2018-09-01 20:00:00 +0200'
 categories: learning
-redirect_from: "/learning/2017/05/01/mit-challenge.html"
+author: Vladyslav Siriniok
+redirect_from:
+  - /learning/2017/05/01/mit-challenge.html
+  - /learning/2018/01/01/mit-challenge.html
 ---
 
 Hi, everyone!
