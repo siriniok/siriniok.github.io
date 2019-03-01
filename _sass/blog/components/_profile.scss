@@ -1,0 +1,19 @@
+.profile {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.profile-photo {
+  margin-bottom: 25px;
+
+  img {
+    width: 190px;
+    border-radius: 50%;
+    border: 7px solid lighten($captionColour, 25%);
+
+    @include breakpoint(break-3) {
+      width: 230px;
+      border: 9px solid lighten($captionColour, 25%);
+    }
+  }
+}

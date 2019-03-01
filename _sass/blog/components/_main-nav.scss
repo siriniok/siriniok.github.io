@@ -29,13 +29,14 @@
 .main-nav__list-item-link {
   user-select: none;
   cursor: pointer;
-  color: $captionColour;
+  color: lighten($captionColour, 10%);
 
   &:hover, &:active, &:focus {
-    color: $linkColour;
+    color: $headingColour;
   }
+}
 
-  @include breakpoint(break-1) {
-    padding: 0;
-  }
+.main-nav__list-item-current {
+  user-select: none;
+  color: $headingColour;
 }

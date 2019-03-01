@@ -1,6 +1,8 @@
 .global-footer {
+  margin-bottom: 1.5rem;
+
   p {
-    @include fontsize(zeta, all);
+    @include fontsize(eta, all);
 
     color: $captionColour;
     text-align: center;

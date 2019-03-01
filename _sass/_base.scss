@@ -3,9 +3,9 @@
 @import "vendor/sassline/style";
 
 @import "blog/base";
-@import "blog/layout";
-@import "blog/index";
 
 @import "blog/components/global-header";
 @import "blog/components/main-nav";
 @import "blog/components/global-footer";
+@import "blog/components/profile";
+@import "blog/components/showcase";
