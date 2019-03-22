@@ -1,0 +1,39 @@
+---
+label: Default
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+  description: title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: date
+  description: date
+  config:
+    display_utc: false
+    date_format: YYYY-MM-DD
+    time_format: HH:MM ZZ
+    required: true
+- type: text
+  name: categories
+  label: 'categories '
+  config:
+    required: true
+  default: notes
+- type: text
+  name: layout
+  label: layout
+  description: layout
+  default: post
+  config:
+    required: true
+- type: text
+  name: author
+  label: author
+  description: author
+  config:
+    required: true
+  default: Vladyslav Siriniok
