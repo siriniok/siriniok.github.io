@@ -6,4 +6,5 @@ group :jekyll_plugins do
   gem 'octopress-debugger'
   gem 'jekyll-redirect-from'
   gem 'jekyll-compose'
+  gem 'jekyll-twitter-plugin'
 end
