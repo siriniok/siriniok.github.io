@@ -10,8 +10,8 @@ I was wondering recently how communication technology impacts quality of group d
 
 For me the most frustrating aspect of such discussions is their intensity.
 
-{% twitter https://twitter.com/PttPrgrmmr/status/1109206383440875526 %}  
-  
+{% twitter https://twitter.com/PttPrgrmmr/status/1109206383440875526 %}
+
 Unfortunately, I haven't found much research on this topic.
 
 Some technologies make discussions more or less productive. My guess it mailby depends on the average message length / average message frequency
@@ -25,3 +25,5 @@ Some technologies make discussions more or less productive. My guess it mailby d
 Taking few deep breaths probably would help. Alas. you can't force all participants to take a pause in the same time.
 
 Will technology that artificially limits those two variables help to have more fruitfull discussions?
+
+{% twitter https://twitter.com/julianweisser/status/1164933092961742849 %}
