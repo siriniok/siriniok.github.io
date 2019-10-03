@@ -2,7 +2,7 @@
 categories: notes
 layout: post
 author: Vladyslav Siriniok
-title: Technology Impact on Discussion Culture
+title: Chats Are Killing Discussions
 date: 2019-03-21T22:00:00.000+00:00
 
 ---
@@ -29,3 +29,8 @@ Taking few deep breaths probably would help. Alas. you can't force all participa
 Will technology that artificially limits those two variables help to have more fruitfull discussions?
 
 {% twitter https://twitter.com/julianweisser/status/1164933092961742849 %}
+
+1. Introduction
+   1. Telegraph
+   2. Nice example, probably Fake
+2. Body
