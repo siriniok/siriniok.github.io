@@ -1,14 +1,14 @@
 ---
 layout: post
 title: My MIT Challenge
-date: '2018-09-01 20:00:00 +0200'
+date: 2018-09-01 20:00:00 +0200
 categories: learning
 author: Vladyslav Siriniok
 redirect_from:
-  - /learning/2017/05/01/mit-challenge.html
-  - /learning/2018/01/01/mit-challenge.html
----
+- "/learning/2017/05/01/mit-challenge.html"
+- "/learning/2018/01/01/mit-challenge.html"
 
+---
 Hi, everyone!
 
 I'm Vladyslav Siriniok, a young software engineer and entrepreneur from Kharkiv, Ukraine.
