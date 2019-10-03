@@ -8,6 +8,8 @@ date: 2019-03-21T22:00:00.000+00:00
 ---
 ![](/uploads/brass-telegraph-692735_960_720.jpg)
 
+Throughout the history of our civilization, the speed of long-distance communications tends to raise up. It has started with messenger horses and pigeon post, and probably finished with chats and emails.
+
 I was wondering recently how communication technology impacts quality of group discussions. Do specific technologies make discussions more or less productive? Probably, you had wondered about that too after having a hot, but unproductive and grueling discussion on Twitter or some group chat.
 
 For me the most frustrating aspect of such discussions is their intensity.
@@ -33,4 +35,12 @@ Will technology that artificially limits those two variables help to have more f
 1. Introduction
    1. Telegraph
    2. Nice example, probably Fake
-2. Body
+   3. We have got to the fastest technologies chats
+2. Lead In
+   1. But what happens to discussions!
+   2. Tweet ptrrrr
+3. Main points
+   1. The quicker media the worse discussion
+4. Conclusion
+   1. Slow media
+5. Invitation for feedback and discussion
