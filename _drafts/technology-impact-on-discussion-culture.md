@@ -6,7 +6,7 @@ title: Technology Impact on Discussion Culture
 date: 2019-03-21T22:00:00.000+00:00
 
 ---
-![](/uploads/brass-telegraph-692735_960_720.jpg)
+![](/uploads/brass-telegraph-692735_960_720-1.jpg)
 
 I was wondering recently how communication technology impacts quality of group discussions. Do specific technologies make discussions more or less productive? Probably, you had wondered about that too after having a hot, but unproductive and grueling discussion on Twitter or some group chat.
 
