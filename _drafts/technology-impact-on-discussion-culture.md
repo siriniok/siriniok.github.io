@@ -10,11 +10,7 @@ date: 2019-10-07 00:00:00 +0300
 
 Throughout the history of our civilization, the speed of long-distance communications tends to raise up. It has started with messenger horses and pigeon post, and probably finished with chats and emails.
 
-I was wondering recently how communication technology impacts quality of group discussions. Do specific technologies make discussions more or less productive? Probably, you had wondered about that too after having a hot, but unproductive and grueling discussion on Twitter or some group chat.  
-  
-> Bell offered to sell his telephone patent to Western Union for $100,000 in 1876, when he was struggling with the business. An account that is believed by some to be apocryphal, but still recounted in many telephone histories states that the committee appointed to investigate the offer filed the following report  
-[https://www.elon.edu/e-web/predictions/150/1870.xhtml](https://www.elon.edu/e-web/predictions/150/1870.xhtml "https://www.elon.edu/e-web/predictions/150/1870.xhtml")  
-> _"We do not see that this device will be ever capable of sending recognizable speech over a distance of several miles. Messer Hubbard and Bell want to install one of their 'telephone devices' in every city. The idea is idiotic on the face of it. Furthermore, why would any person want to use this ungainly and impractical device when he can send a messenger to the telegraph office and have a clear written message sent to any large city in the United States? … Mr. G.G. Hubbard's fanciful predictions, while they sound rosy, are based on wild-eyed imagination and lack of understanding of the technical and economic facts of the situation, and a posture of ignoring the obvious limitations of his device, which is hardly more than a toy ... This device is inherently of no use to us. We do not recommend its purchase."_
+I was wondering recently how communication technology impacts quality of group discussions. Do specific technologies make discussions more or less productive? Probably, you had wondered about that too after having a hot, but unproductive and grueling discussion on Twitter or some group chat.
 
 For me the most frustrating aspect of such discussions is their intensity.
 
