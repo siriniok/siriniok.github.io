@@ -28,6 +28,8 @@ Some technologies make discussions more or less productive. My guess it mailby d
 
 Taking few deep breaths probably would help. Alas. you can't force all participants to take a pause in the same time.
 
+Telegram adds slow mode
+
 Will technology that artificially limits those two variables help to have more fruitfull discussions?
 
 {% twitter https://twitter.com/julianweisser/status/1164933092961742849 %}
