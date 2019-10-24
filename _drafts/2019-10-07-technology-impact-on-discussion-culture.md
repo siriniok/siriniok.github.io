@@ -14,7 +14,7 @@ I was wondering recently how communication technology impacts quality of group d
 
 For me the most frustrating aspect of such discussions is their intensity.
 
-{% twitter https://twitter.com/PttPrgrmmr/status/1109206383440875526 %}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Instant messaging lowers the bar to compose a message. I think this is not a good idea for collaboration. Composing a message should require more time and thought.</p>&mdash; Obstructed Goggles (@obsgog) <a href="https://twitter.com/obsgog/status/1109206383440875526?ref_src=twsrc%5Etfw">March 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Some technologies make discussions more or less productive. My guess it mailby depends on the average message length / average message frequency. Unfortunately, I haven't found much research on this topic, but from my experience I'd sort the popular communication means in this order:
 
@@ -30,7 +30,7 @@ Telegram adds slow mode
 
 Will technology that artificially limits those two variables help to have more fruitfull discussions?
 
-{% twitter https://twitter.com/julianweisser/status/1164933092961742849 %}
+https://letter.wiki/about
 
 1. Introduction
    1. Telegraph
