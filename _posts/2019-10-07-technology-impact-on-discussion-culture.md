@@ -45,4 +45,6 @@ Will technology that artificially limits those two variables help to have more f
    1. Slow media
 5. Invitation for feedback and discussion
 
+***
+
 [^1]: Amazing how it all started with messengers and ended with messengers too.
