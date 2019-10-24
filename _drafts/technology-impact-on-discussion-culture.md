@@ -8,7 +8,7 @@ date: 2019-10-07 00:00:00 +0300
 ---
 ![](/uploads/brass-telegraph-692735_960_720.jpg)
 
-Throughout the history of our civilization, the speed of long-distance communications tends to raise up. It has started with messenger horses and pigeon post, and probably finished with chats and emails.
+Throughout the history of our civilization, the speed of long-distance communications tends to raise up. It started with messenger horses and pigeon post, and probably ended with SMS and chat messengers\[^1\].
 
 I was wondering recently how communication technology impacts quality of group discussions. Do specific technologies make discussions more or less productive? Probably, you had wondered about that too after having a hot, but unproductive and grueling discussion on Twitter or some group chat.
 
@@ -16,9 +16,7 @@ For me the most frustrating aspect of such discussions is their intensity.
 
 {% twitter https://twitter.com/PttPrgrmmr/status/1109206383440875526 %}
 
-Unfortunately, I haven't found much research on this topic.
-
-Some technologies make discussions more or less productive. My guess it mailby depends on the average message length / average message frequency
+Some technologies make discussions more or less productive. My guess it mailby depends on the average message length / average message frequency. Unfortunately, I haven't found much research on this topic, but from my experience I'd sort the popular communication means in this order:
 
 * blogs (as article responses, not comments)
 * emails
@@ -46,3 +44,5 @@ Will technology that artificially limits those two variables help to have more f
 4. Conclusion
    1. Slow media
 5. Invitation for feedback and discussion
+
+\[^1\] Amazing how it all started with messengers and ended with messengers too.
