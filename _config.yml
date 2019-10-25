@@ -2,8 +2,8 @@ title: A Bottle of Code
 email: siriniok@gmail.com
 description: >
   Notes on drinking code.
-baseurl: ""
 url: "http://siriniok.com"
+permalink: pretty
 twitter_username: siriniok
 github_username:  siriniok
 
@@ -16,3 +16,4 @@ plugins:
   - octopress-debugger
   - jekyll-redirect-from
   - jekyll-twitter-plugin
+  - jekyll-gist
