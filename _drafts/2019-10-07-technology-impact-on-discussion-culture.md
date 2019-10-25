@@ -43,19 +43,14 @@ Will technology that artificially limits those two variables help to have more f
 
 https://letter.wiki/about
 
-1. Introduction
-   1. Telegraph
-   2. Nice example, probably Fake
-   3. We have got to the fastest technologies chats
-   4. telepathic?
-2. Lead In
+1. Lead In
    1. But what happens to discussions!
    2. Tweet ptrrrr
-3. Main points
+2. Main points
    1. The quicker media the worse discussion
-4. Conclusion
+3. Conclusion
    1. Slow media
-5. Invitation for feedback and discussion
+4. Invitation for feedback and discussion
 
 ***
 
