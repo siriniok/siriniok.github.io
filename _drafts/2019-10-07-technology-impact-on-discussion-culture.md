@@ -8,17 +8,15 @@ date: 2019-10-24T21:00:00.000+00:00
 ---
 ![](/uploads/brass-telegraph-692735_960_720.jpg)
 
-Throughout the history of our civilization, the speed of long-distance communications tends to raise up. It started with messenger horses and pigeon post, and probably ended with video calls and chat messengers\[^1\]. I'd say conservatively, no one needs faster communications than we have today, and even if you can imagine something more rapid, like quantum telepathic networks organized through brain-computer interface, you will probably agree that our communication technologies are fast enough. 
+Throughout the history of our civilization, the speed of long-distance communications tends to raise up. It started with messenger horses and pigeon post, and probably ended with video calls and chat messengers\[^1\]. I'd say conservatively, no one needs faster communications than we have today, and even if you can imagine something more rapid, like quantum telepathic networks organized through brain-computer interface, you will probably agree that our communication technologies are fast enough for our daily needs.
 
-So nowadays we have everything in terms of speed and access, and that's what we usually call "the quality" of communication technology. But I want to talk today about only one specific type of communication: a discussion; which is in my opinion is the most interesting and demanding type of communication.
+So nowadays we have everything in terms of speed and access, and that's what we usually call "the quality" of communication technology. But I want to talk today about one specific type of communication: a discussion; which is in my opinion is the most interesting and demanding type of communication.
 
-As a consequence, when it comes to discussion, speed and accessibility become rather a quantitative measures than a qualitative one. One could 
+A discussion is a conversation or debate about some topic. In essence, it didn't change much in the last 2500 years.
 
-But the speed is rather a quantitative measure with respect 
+I was wondering recently how communication technologies impact quality of group discussions. Do specific technologies make discussions more or less productive? Probably, you had wondered about that too after having a hot, but unproductive and grueling discussion on Twitter or some group chat.e
 
-I was wondering recently how communication technologies impact quality of group discussions. Do specific technologies make discussions more or less productive? Probably, you had wondered about that too after having a hot, but unproductive and grueling discussion on Twitter or some group chat.
-
-My guess, it maybe depends on the average message length / average message frequency. 
+My guess, it maybe depends on the average message length / average message frequency.
 
 For me the most frustrating aspect of such discussions is their intensity.
 
@@ -33,15 +31,19 @@ Unfortunately, I haven't found much research on this topic, but from my experien
 * twitter
 * group chats
 
-I didn't include video calls into this list, because 
+I didn't include video calls into this list, because
 
 Taking few deep breaths probably would help. Alas. you can't force all participants to take a pause in the same time.
 
 Telegram adds slow mode
 
-Will technology that artificially limits those two variables help to have more fruitfull discussions?
+Will technology that artificially limits those two variables help to have more fruitfull discussions?  
+  
+Another solution that come to my attention is so called ["slow media"](https://en.wikipedia.org/wiki/Slow_media) platforms like https://letter.wiki/about.
 
-https://letter.wiki/about
+But it looks like it's useful only for very formal debates. Most of the discussions happen spontaniously in different places.
+
+I believe there is a broad space of possibilities to solve this problem. As Naval Ravikant [once put it](https://twitter.com/naval/status/1099474932260495360), "The people designing the algorithms to shape online debate are now the most powerful people in the world". Please, share your ideas in comments.
 
 1. Lead In
    1. But what happens to discussions!
@@ -50,7 +52,6 @@ https://letter.wiki/about
    1. The quicker media the worse discussion
 3. Conclusion
    1. Slow media
-4. Invitation for feedback and discussion
 
 ***
 
