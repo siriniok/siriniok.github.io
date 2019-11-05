@@ -10,7 +10,9 @@ date: 2019-10-24T21:00:00.000+00:00
 
 Throughout the history of our civilization, the speed of long-distance communications tends to raise up. It started with messenger horses and pigeon post, and probably ended with video calls and chat messengers\[^1\]. I'd say conservatively, no one needs faster communications than we have today, and even if you can imagine something more rapid, like quantum telepathic networks organized through brain-computer interface, you will probably agree that our communication technologies are fast enough for our daily needs.
 
-So nowadays we have everything in terms of speed and access, and that's what we usually call "the quality" of communication technology. But I want to talk today about one specific type of communication: a discussion; which is in my opinion is the most interesting and demanding type of communication.
+So nowadays we have everything in terms of speed and access. But the speed of communications impacts their quality?
+
+At first glance, the faster you can get or deliver a message, the better. But imagine that 
 
 A discussion is a conversation or debate about some topic. In essence, it didn't change much in the last 2500 years.
 
@@ -37,8 +39,8 @@ Taking few deep breaths probably would help. Alas. you can't force all participa
 
 Telegram adds slow mode
 
-Will technology that artificially limits those two variables help to have more fruitfull discussions?  
-  
+Will technology that artificially limits those two variables help to have more fruitfull discussions?
+
 Another solution that come to my attention is so called ["slow media"](https://en.wikipedia.org/wiki/Slow_media) platforms like https://letter.wiki/about.
 
 But it looks like it's useful only for very formal debates. Most of the discussions happen spontaniously in different places.
