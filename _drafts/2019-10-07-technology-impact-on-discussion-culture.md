@@ -10,11 +10,9 @@ date: 2019-10-24T21:00:00.000+00:00
 
 Throughout the history of our civilization, the speed of long-distance communications tends to raise up. It started with messenger horses and pigeon post, and probably ended with video calls and chat messengers\[^1\]. I'd say conservatively, no one needs faster communications than we have today, and even if you can imagine something more rapid, like quantum telepathic networks organized through brain-computer interface, you will probably agree that our communication technologies are fast enough for our daily needs.
 
-So nowadays we have everything in terms of speed and access. But the speed of communications impacts their quality?
+So nowadays we have everything in terms of speed and access. But how the speed of communication impacts its quality?
 
-At first glance, the faster you can get or deliver a message, the better. But imagine that 
-
-A discussion is a conversation or debate about some topic. In essence, it didn't change much in the last 2500 years.
+At first glance, the faster you can get or deliver a message, the better. But imagine that
 
 I was wondering recently how communication technologies impact quality of group discussions. Do specific technologies make discussions more or less productive? Probably, you had wondered about that too after having a hot, but unproductive and grueling discussion on Twitter or some group chat.e
 
@@ -24,7 +22,7 @@ For me the most frustrating aspect of such discussions is their intensity.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Instant messaging lowers the bar to compose a message. I think this is not a good idea for collaboration. Composing a message should require more time and thought.</p>— Obstructed Goggles (@obsgog) <a href="https://twitter.com/obsgog/status/1109206383440875526?ref_src=twsrc%5Etfw">March 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Unfortunately, I haven't found much research on this topic, but from my experience I'd sort the popular communication means by their discussion quality in this order:
+Unfortunately, I haven't found much research on this topic, but from my experience, I'd sort the popular text communication means by their discussion quality in this order:
 
 * blogs (as article responses, not comments)
 * emails (including mailing lists)
