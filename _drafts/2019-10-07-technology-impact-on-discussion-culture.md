@@ -10,13 +10,15 @@ date: 2019-10-24T21:00:00.000+00:00
 
 Throughout the history of our civilization, the speed of long-distance communications tends to raise up. It started with messenger horses and pigeon post, and probably ended with video calls and chat messengers\[^1\]. I'd say conservatively, no one needs faster communications than we have today, and even if you can imagine something more rapid, like quantum telepathic networks organized through brain-computer interface, you will probably agree that our communication technologies are fast enough for our daily needs.
 
-So nowadays we have everything in terms of speed and access. But how the speed of communication impacts its quality?
+So nowadays we have everything in terms of speed and access. And it looks fine: what could possibly be bad in ability to communicate fast and freely? Until it comes to group discussions,  
+  
+It never was appropriate for a good discussion to have more than one speaker at once. It's still not appropriate on 
 
 At first glance, the faster you can get or deliver a message, the better. But imagine that
 
-I was wondering recently how communication technologies impact quality of group discussions. Do specific technologies make discussions more or less productive? Probably, you had wondered about that too after having a hot, but unproductive and grueling discussion on Twitter or some group chat.e
+Do specific technologies make discussions more or less productive? Probably, you had wondered about that too after having a hot, but unproductive and grueling discussion on Twitter or some group chat.e
 
-My guess, it maybe depends on the average message length / average message frequency.
+My guess, it depends on the average message length / average message frequency.
 
 For me the most frustrating aspect of such discussions is their intensity.
 
