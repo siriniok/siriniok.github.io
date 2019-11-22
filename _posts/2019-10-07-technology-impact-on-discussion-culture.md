@@ -8,7 +8,7 @@ date: 2019-10-24T21:00:00.000+00:00
 ---
 ![](/uploads/brass-telegraph-692735_960_720.jpg)
 
-Throughout the history of our civilization, the speed of long-distance communications tends to raise up. It started with messenger horses and pigeon post, and probably ended with video calls and chat messengers\[^1\]. I'd say conservatively, no one needs faster communications than we have today, and even if you can imagine something more rapid, like quantum telepathic networks organized through brain-computer interface, you will probably agree that our communication technologies are fast enough for our daily needs.
+Throughout the history of our civilization, the speed of long-distance communications tends to raise up. It started with messenger horses and pigeon post, and probably ended with video calls and chat messengers[^1]. I'd say conservatively, no one needs faster communications than we have today, and even if you can imagine something more rapid, like quantum telepathic networks organized through brain-computer interface, you will probably agree that our communication technologies are fast enough for our daily needs.
 
 So nowadays we have everything in terms of speed and access. And it looks fine: what could possibly be wrong about ability to communicate fast and freely, right? But only until it comes to **group discussions.** Speed is not the best quality of a good argument.
 
@@ -43,4 +43,4 @@ I believe there is a broad space of possibilities to solve this problem and a te
 
 ***
 
-\[^1\]: Amazing how it all started up with messengers and ended up with messengers too.
+[^1]: Amazing how it all started up with messengers and ended up with messengers too.
