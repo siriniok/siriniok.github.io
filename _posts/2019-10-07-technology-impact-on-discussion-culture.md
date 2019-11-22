@@ -3,7 +3,7 @@ categories: notes
 layout: post
 author: Vladyslav Siriniok
 title: Chats Are Killing Discussions
-date: 2019-10-24T21:00:00.000+00:00
+date: 2019-11-22 00:00:00 +0200
 
 ---
 ![](/uploads/brass-telegraph-692735_960_720.jpg)
