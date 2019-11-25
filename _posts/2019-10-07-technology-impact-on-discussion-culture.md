@@ -2,7 +2,7 @@
 categories: notes
 layout: post
 author: Vladyslav Siriniok
-title: How Technologies Damage Discussions and What To Do About It
+title: How Technologies Damage Discussions and What Can We Do
 date: 2019-11-22 00:00:00 +0200
 
 ---
