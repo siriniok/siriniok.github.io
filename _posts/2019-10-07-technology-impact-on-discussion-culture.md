@@ -8,11 +8,11 @@ date: 2019-11-22 00:00:00 +0200
 ---
 ![](/uploads/brass-telegraph-692735_960_720.jpg)
 
-Throughout the history of our civilization, the speed of long-distance communications tends to raise. It started with messenger horses and pigeon post, and likely ended with video calls and chat messengers\[^1\]. I'd say conservatively, no one needs faster communications than we have today, and even if you can imagine something more rapid, like quantum telepathic networks organized through a brain-computer interface, you will probably agree that our communication technologies are fast enough for our daily needs.
+Throughout the history of our civilization, the speed of long-distance communications tends to raise. It started with messenger horses and pigeon post, and likely ended with video calls and chat messengers[^1]. I'd say conservatively, no one needs faster communications than we have today, and even if you can imagine something more rapid, like quantum telepathic networks organized through a brain-computer interface, you will probably agree that our communication technologies are fast enough for our daily needs.
 
-So nowadays we have everything in terms of speed and access. And it looks fine: what could possibly be wrong about the ability to communicate fast and freely, right? Well, yes, but only until it comes to **group discussions. **Quick pace and hurry aren't the best friends of a good argument.
+So nowadays we have everything in terms of speed and access. And it looks fine: what could possibly be wrong about the ability to communicate fast and freely, right? Well, yes, but only until it comes to **group discussions.** Quick pace and hurry aren't the best friends of a good argument.
 
-You had probably noticed some frustration related to the speed of discussion yourself: discussions on Twitter are grueling, discussions in group chats are grueling even more. I bet, if you are old enough, you experience some nostalgia for sweet discussions on forums or mailing lists from time to time. And have you noticed, it's easier to discuss a challenging topic with friends at the bar than to discuss that topic with the same friends in your group chat?
+You had probably noticed some frustration *related to the speed of discussion* yourself: discussions on Twitter are grueling, discussions in group chats are grueling even more. I bet, if you are old enough, you experience some nostalgia for sweet discussions on forums or mailing lists from time to time. And have you noticed, it's easier to discuss a challenging topic with friends at the bar than to discuss that topic with the same friends in your group chat?
 
 For me, **the most frustrating aspect** of chat discussions is their intensity. It never was appropriate for a good discussion to have more than one person speaking at the same time. It's still not appropriate in real life or on Skype calls. But when it comes to texting... well, no one can be stopped. Taking a few deep breaths possibly could help, but alas, you can't force all participants to do that.
 
@@ -43,4 +43,4 @@ I believe there is a broad space of possibilities to solve this problem, and a t
 
 ***
 
-\[^1\]: Amazing how it all started up with messengers and ended up with messengers too.
+[^1]: Amazing how it all started up with messengers and ended up with messengers too.
