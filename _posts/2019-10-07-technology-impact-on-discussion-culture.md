@@ -2,8 +2,8 @@
 categories: notes
 layout: post
 author: Vladyslav Siriniok
-title: How Technologies Damage Discussions and What Can We Do
-date: 2019-11-22 00:00:00 +0200
+title: 'Can Technology Improve '
+date: 2019-11-21T22:00:00.000+00:00
 
 ---
 ![](/uploads/brass-telegraph-692735_960_720.jpg)
@@ -22,7 +22,7 @@ Do certain technologies make discussions more or less productive? Maybe, you had
 
 And it seems like I'm not the only one who came to similar conclusions, I see people frustrated by this issue quite often.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Instant messaging lowers the bar to compose a message. I think this is not a good idea for collaboration. Composing a message should require more time and thought.</p>— Þotacon (@obsgog) <a href="https://twitter.com/obsgog/status/1109206383440875526?ref_src=twsrc%5Etfw">March 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Instant messaging lowers the bar to compose a message. I think this is not a good idea for collaboration. Composing a message should require more time and thought.</p>— Þotacon (@obsgog) <a href="https://twitter.com/obsgog/status/1109206383440875526?ref_src=twsrc%5Etfw">March 22, 2019</a></blockquote>
 
 Unfortunately, I haven't found much research on this topic, but from my subjective experience, I'd sort the popular text communication means by their discussion quality in this order:
 
