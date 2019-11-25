@@ -8,21 +8,21 @@ date: 2019-11-22 00:00:00 +0200
 ---
 ![](/uploads/brass-telegraph-692735_960_720.jpg)
 
-Throughout the history of our civilization, the speed of long-distance communications tends to raise up. It started with messenger horses and pigeon post, and probably ended with video calls and chat messengers[^1]. I'd say conservatively, no one needs faster communications than we have today, and even if you can imagine something more rapid, like quantum telepathic networks organized through brain-computer interface, you will probably agree that our communication technologies are fast enough for our daily needs.
+Throughout the history of our civilization, the speed of long-distance communications tends to raise. It started with messenger horses and pigeon post, and likely ended with video calls and chat messengers\[^1\]. I'd say conservatively, no one needs faster communications than we have today, and even if you can imagine something more rapid, like quantum telepathic networks organized through a brain-computer interface, you will probably agree that our communication technologies are fast enough for our daily needs.
 
-So nowadays we have everything in terms of speed and access. And it looks fine: what could possibly be wrong about ability to communicate fast and freely, right? But only until it comes to **group discussions.** Speed is not the best quality of a good argument.
+So nowadays we have everything in terms of speed and access. And it looks fine: what could possibly be wrong about the ability to communicate fast and freely, right? Well, yes, but only until it comes to **group discussions. **Quick pace and hurry aren't the best friends of a good argument.
 
-You had probably noticed some frustration related to the speed of discussion yourself: discussions on Twitter are grueling, discussions in group chats are grueling even more. And I bet, if you are old enough, you experience some nostalgia for sweet discussions on forums or mailing lists from time to time. And have you noticed, it's easier to discuss challenging topic with friends at bar, than to discuss that topic with the same friends in your group chat?
+You had probably noticed some frustration related to the speed of discussion yourself: discussions on Twitter are grueling, discussions in group chats are grueling even more. I bet, if you are old enough, you experience some nostalgia for sweet discussions on forums or mailing lists from time to time. And have you noticed, it's easier to discuss a challenging topic with friends at the bar than to discuss that topic with the same friends in your group chat?
 
-For me **the most frustrating aspect** of chat discussions is their intensity. It never was appropriate for a good discussion to have more than one person speaking at the same time. It's still not appropriate in real life or on Skype calls. But when it comes to texting... well, no one can be stopped. Taking few deep breaths probably can help, but alas, you can't force all participants to take a pause.
+For me, **the most frustrating aspect** of chat discussions is their intensity. It never was appropriate for a good discussion to have more than one person speaking at the same time. It's still not appropriate in real life or on Skype calls. But when it comes to texting... well, no one can be stopped. Taking a few deep breaths possibly could help, but alas, you can't force all participants to do that.
 
-You can manage this issue in voice discussions by raising your voice and asking everyone to shut the fuck up, but I don't remember a case when STFU ever worked on chats.
+Even when this issue arises in a voice discussion, you can manage it by raising your voice and asking everyone to shut the fuck up, but I don't remember a case when STFU ever worked on the Internet.
 
-So, do specific technologies make discussions more or less productive? Probably, you had wondered about that too after having a hot, but unproductive and grueling discussion on the Internet. My guess, it mainly depends on **the average message length** **/** **average message frequency** on the specific media.
+So, do specific technologies make discussions more or less productive? Maybe, you had wondered about that too after having a hot, but unproductive and grueling discussion on Twitter or some messenger. My guess, it mainly depends on **the average message length** and **average message frequency** on the specific media.
 
-And seems like I'm not the only one who came to similar conclusions, I see people frustrated by this issue quite often, e.g.:
+And it seems like I'm not the only one who came to similar conclusions, I see people frustrated by this issue quite often, e.g.:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Instant messaging lowers the bar to compose a message. I think this is not a good idea for collaboration. Composing a message should require more time and thought.</p>&mdash; Þotacon (@obsgog) <a href="https://twitter.com/obsgog/status/1109206383440875526?ref_src=twsrc%5Etfw">March 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Instant messaging lowers the bar to compose a message. I think this is not a good idea for collaboration. Composing a message should require more time and thought.</p>— Þotacon (@obsgog) <a href="https://twitter.com/obsgog/status/1109206383440875526?ref_src=twsrc%5Etfw">March 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Unfortunately, I haven't found much research on this topic, but from my subjective experience, I'd sort the popular text communication means by their discussion quality in this order:
 
@@ -33,14 +33,14 @@ Unfortunately, I haven't found much research on this topic, but from my subjecti
 * twitter
 * chats
 
-So it's looks like quality of the discussion strongly correlates with **the average message length** **/** **average message frequency** on the respective media. Maybe, technology that artificially limits these two variables will help to have more thoughtful and fruitful discussions?
+So it looks like the quality of the discussion correlates with **the average message length** and **average message frequency** on the respective media. Maybe, a technology that artificially limits these two variables would help to have more thoughtful and fruitful discussions?
 
-One solution that came to my attention is so-called ["slow media"](https://en.wikipedia.org/wiki/Slow_media) platforms like [Letter Wiki](https://letter.wiki/) as a modern alternative to mailing lists, or [Threads](https://threads.com/) with a similar concept for B2B. They are trying to create a space for meaningful discussions and better decision making by encouraging to email-like style of communication while providing a better UX.
+One potential solution that came to my attention is so-called ["slow media"](https://en.wikipedia.org/wiki/Slow_media) platforms like [Letter Wiki](https://letter.wiki/) as a modern alternative to mailing lists, or [Threads](https://threads.com/), with a similar concept for B2B. They are trying to create a space for meaningful discussions and better decision making by encouraging the email-like style of communication while providing a better UX.
 
 Existent platforms are also trying to mitigate this problem. For example, [Telegram introduced "slow mode"](https://techcrunch.com/2019/08/10/telegram-slow-mode-silent-notifications/) for group chats: you can throttle posting frequency down to a specific number of messages per hour.
 
-I believe there is a broad space of possibilities to solve this problem and a technology that will solve it has a potential to become a new level of social networking on the Internet. As Naval Ravikant [once put it](https://twitter.com/naval/status/1099474932260495360), "The people designing the algorithms to shape online debate are now the most powerful people in the world". If you have any idea how to do it better, please, share them in comments.
+I believe there is a broad space of possibilities to solve this problem, and a technology that will solve it has the potential to become a new level of social networking. _As Naval Ravikant_ [_once put it_](https://twitter.com/naval/status/1099474932260495360)_, "The people designing the algorithms to shape online debate are now the most powerful people in the world"._ 
 
 ***
 
-[^1]: Amazing how it all started up with messengers and ended up with messengers too.
+\[^1\]: Amazing how it all started up with messengers and ended up with messengers too.
