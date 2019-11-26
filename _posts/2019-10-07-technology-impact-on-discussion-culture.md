@@ -2,7 +2,7 @@
 categories: notes
 layout: post
 author: Vladyslav Siriniok
-title: 'Can Technology Improve '
+title: Can Online Discussions Be Less Exhausting?
 date: 2019-11-21T22:00:00.000+00:00
 image: "/uploads/brass-telegraph-692735_960_720.jpg"
 description: Do certain technologies make discussions more or less productive? Maybe,
@@ -45,7 +45,7 @@ Existing platforms are also trying to mitigate this problem. For example, [Teleg
 
 I believe there is a broad space of possibilities to solve this problem, and a technology that will solve it has the potential to become a new level of social networking. As Naval Ravikant [once put it](https://twitter.com/naval/status/1099474932260495360): *"The people designing the algorithms to shape online debate are now the most powerful people in the world".*
 
-So how do you see the future of online debate? Please, leave your insights in the comments below.
+So how do you see the future of online debate? Can online discussions be less exhausting? Please, leave your thoughts in the comments below.
 
 ***
 
