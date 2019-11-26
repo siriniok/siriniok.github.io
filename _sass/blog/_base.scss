@@ -4,6 +4,19 @@ body {
   overflow-x: hidden;
 }
 
+sup {
+  vertical-align: super;
+  font-size: smaller;
+  line-height: 1;
+  padding-left: 0.2rem;
+  font-size: 0.9rem;
+  font-weight: bold;
+}
+
+li p {
+  padding-top: 0;
+}
+
 .section {
   padding: 2rem 0;
 
