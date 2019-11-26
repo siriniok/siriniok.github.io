@@ -6,7 +6,7 @@ title: 'Can Technology Improve '
 date: 2019-11-21T22:00:00.000+00:00
 image: "/uploads/brass-telegraph-692735_960_720.jpg"
 description: Do certain technologies make discussions more or less productive? Maybe,
-  you had wondered about that too after having a hot, but unproductive and exhausting,
+  you have wondered about that too after having a hot, but unproductive and exhausting,
   discussion on Twitter or some messenger.
 
 ---
@@ -22,7 +22,7 @@ For me, **the most frustrating aspect** of chat conversations is their intensity
 
 Even when this issue arises in a voice discussion, you can manage it by raising your voice and asking everyone to shut the fuck up, but I don't remember a case when STFU ever worked on the Internet.
 
-Do certain technologies make discussions more or less productive? Maybe, you had wondered about that too after having a hot, but unproductive and exhausting, discussion on Twitter or some messenger. My guess, it mainly depends on **the average message length** and **average message frequency** on the specific media.
+Do certain technologies make discussions more or less productive? Maybe, you have wondered about that too after having a hot, but unproductive and exhausting, discussion on Twitter or some messenger. My guess, it mainly depends on **the average message length** and **average message frequency** on the specific media.
 
 And it seems like I'm not the only one who came to similar conclusions, I see people frustrated by this issue quite often.
 
