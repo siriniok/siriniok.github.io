@@ -1,8 +1,19 @@
 title: Vladyslav Siriniok
+author: Vladyslav Siriniok
 email: siriniok@gmail.com
+twitter:
+  username: siriniok
+  card: summary
+social:
+  name: Vladyslav Siriniok
+  links:
+    - https://twitter.com/siriniok
+    - https://facebook.com/siriniok
+    - https://ua.linkedin.com/in/siriniok
+    - https://github.com/siriniok
 description: >
   A blog on tech and science by Vladyslav Siriniok
-url: "http://siriniok.com"
+url: "http://siriniok.me"
 permalink: pretty
 twitter_username: siriniok
 github_username:  siriniok
@@ -17,3 +28,5 @@ plugins:
   - jekyll-redirect-from
   - jekyll-twitter-plugin
   - jekyll-gist
+  - jekyll-seo-tag
+  - jekyll-sitemap
