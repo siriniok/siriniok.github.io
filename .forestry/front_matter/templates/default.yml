@@ -37,5 +37,10 @@ fields:
   config:
     required: true
   default: Vladyslav Siriniok
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
 pages:
 - _posts/2019-10-07-technology-impact-on-discussion-culture.md
