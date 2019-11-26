@@ -5,6 +5,9 @@ author: Vladyslav Siriniok
 title: 'Can Technology Improve '
 date: 2019-11-21T22:00:00.000+00:00
 image: "/uploads/brass-telegraph-692735_960_720.jpg"
+description: Do certain technologies make discussions more or less productive? Maybe,
+  you had wondered about that too after having a hot, but unproductive and exhausting,
+  discussion on Twitter or some messenger.
 
 ---
 ![](/uploads/brass-telegraph-692735_960_720.jpg)
