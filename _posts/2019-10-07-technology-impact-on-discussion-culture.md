@@ -4,6 +4,7 @@ layout: post
 author: Vladyslav Siriniok
 title: 'Can Technology Improve '
 date: 2019-11-21T22:00:00.000+00:00
+image: "/uploads/brass-telegraph-692735_960_720.jpg"
 
 ---
 ![](/uploads/brass-telegraph-692735_960_720.jpg)
