@@ -43,7 +43,7 @@ One potential solution that came to my attention is the so-called ["slow media"]
 
 Existing platforms are also trying to mitigate this problem. For example, [Telegram introduced "slow mode"](https://techcrunch.com/2019/08/10/telegram-slow-mode-silent-notifications/) for group chats: you can throttle posting frequency down to a specific number of messages per hour.
 
-I believe there is a broad space of possibilities to solve this problem, and a technology that will solve it has the potential to become a new level of social networking. As Naval Ravikant [once put it](https://twitter.com/naval/status/1099474932260495360): *"The people designing the algorithms to shape online debate are now the most powerful people in the world".*
+There is a broad space of possibilities to solve this problem, and a technology that will solve it has the potential to become a new level of social networking. As Naval Ravikant [once put it](https://twitter.com/naval/status/1099474932260495360): *"The people designing the algorithms to shape online debate are now the most powerful people in the world".*
 
 So how do you see the future of online debate? Can online discussions be less exhausting? Please, leave your thoughts in the comments below.
 
