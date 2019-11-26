@@ -3,7 +3,7 @@ categories: notes
 layout: post
 author: Vladyslav Siriniok
 title: Can Online Discussions Be Less Exhausting?
-date: 2019-11-22 10:00:00 +0200
+date: 2019-11-22 10:11:00 +0200
 image: "/uploads/brass-telegraph-692735_960_720.jpg"
 description: Do certain technologies make discussions more or less productive? Maybe,
   you have wondered about that too after having a hot, but unproductive and exhausting,
