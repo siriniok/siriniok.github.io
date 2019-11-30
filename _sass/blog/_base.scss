@@ -41,6 +41,11 @@ sup {
   }
 }
 
+// Fix typography
+.typeset h1, .typeset .alpha {
+  @include sassline($fontsize: alpha, $font: $headingtype, $lineheight: 3.5, $below: 1, $breakpoint: 4);
+}
+
 img {
   height: auto;
   vertical-align: middle;
