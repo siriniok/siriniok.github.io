@@ -19,9 +19,9 @@
 }
 
 .post-profile-description {
+  @include fontsize(eta, all);
   max-width: 95%;
   padding-top: 2rem;
-  font-size: 1.35rem;
   text-align: center;
   color: darken($captionColour, 25%);
 
@@ -29,19 +29,10 @@
     padding-top: 0;
   }
 
-  @include breakpoint(break-1) {
-    font-size: 1.18rem;
-  }
-
   @include breakpoint(break-2) {
     max-width: 65%;
     padding-top: 0;
     text-align: left;
-    font-size: 1.16rem;
-  }
-
-  @include breakpoint(break-3) {
-    font-size: 1.1rem;
   }
 }
 
