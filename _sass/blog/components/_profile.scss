@@ -1,10 +1,10 @@
 .profile {
-  margin-top: 40px;
+  margin-top: 30px;
   text-align: center;
 }
 
 .profile-photo {
-  margin-bottom: 25px;
+  margin-bottom: 20px;
 
   img {
     width: 190px;
@@ -12,8 +12,7 @@
     border: 7px solid lighten($captionColour, 25%);
 
     @include breakpoint(break-3) {
-      width: 230px;
-      border: 9px solid lighten($captionColour, 25%);
+      width: 210px;
     }
   }
 }
