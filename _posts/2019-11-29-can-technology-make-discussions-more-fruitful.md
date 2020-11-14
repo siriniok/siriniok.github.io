@@ -48,7 +48,7 @@ There is a broad space of possibilities to solve this problem, and a technology 
 
 So how do you see the future of online debate? Can technology make online discussions more fruitful and less exhausting? Please, leave your thoughts in the comments below.
 
-UPD (2020-11-14): In the last year, we could observe a raise of slow media. Letter Wiki is gaining popularity, Threads got a competitor from [Clariti](https://clariti.app/), and [Substack](https://substack.com/) gave a new life to email as a medium. Even Google entered the market with their own solution for meaningful discussions—[Currents](https://workspace.google.com/products/currents/). So I'm really glad that I have spotted the trend early.
+**UPD (2020-11-14):** In the last year, we could observe a raise of slow media. Letter Wiki is gaining popularity, Threads got a competitor from [Clariti](https://clariti.app/), and [Substack](https://substack.com/) gave a new life to email as a medium. Even Google entered the market with their own solution for meaningful discussions—[Currents](https://workspace.google.com/products/currents/). So I'm really glad that I have spotted the trend early.
 
 ***
 
