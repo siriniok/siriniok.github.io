@@ -1,29 +1,21 @@
 .main-nav__list {
-  margin-top: 1rem;
-
-  @include breakpoint(break-1) {
-    margin-top: 0.2rem;
-    text-align: right;
-  }
-}
-
-.main-nav__list-item {
   @include fontsize(delta, all);
-
   font-family: unquote(map-get($headingtype, font-family));
   font-style: normal;
   font-weight: map-get($headingtype, regular);
   text-transform: uppercase;
   letter-spacing: 0.1rem;
+  margin-top: 1rem;
 
-  display: inline-block;
-  margin-right: 1.7rem;
-
-  &:last-child {
-    @include breakpoint(break-1) {
-      margin-right: 0;
-    }
+  @include breakpoint(break-1) {
+    @include fontsize(epsilon, all);
+    margin-top: 0.8rem;
   }
+}
+
+.main-nav__list-item {
+  display: inline-block;
+  margin-right: 1.2rem;
 }
 
 .main-nav__list-item-link {

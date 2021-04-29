@@ -2,7 +2,6 @@
   margin: 2.6rem 1.5rem 2rem;
 
   @include breakpoint(break-1) {
-    display: flex;
     max-width: 600px;
     margin: 2.6rem auto 2rem;
   }
@@ -20,12 +19,6 @@
   }
 }
 
-.global-header__title {
-  @include breakpoint(break-1) {
-    width: 70%;
-  }
-}
-
 .site-title {
   @include fontsize(alpha, all);
 
@@ -35,13 +28,5 @@
 
   @include breakpoint(break-3) {
     @include fontsize(beta, all);
-  }
-}
-
-.global-header__nav {
-  font-size: 0;
-
-  @include breakpoint(break-1) {
-    width: 50%;
   }
 }
