@@ -3,6 +3,7 @@ layout: post
 title: My MIT Challenge
 date: 2018-09-01 20:00:00 +0200
 categories: learning
+comments: true
 author: Vladyslav Siriniok
 redirect_from:
 - "/learning/2017/05/01/mit-challenge.html"

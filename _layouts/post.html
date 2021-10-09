@@ -14,8 +14,14 @@ layout: default
               <span itemprop="name">{{ page.author }}</span>
             </span>
           {% endif %}
+          {% if page.comments %}
+            •
+            <span>
+              📣 <a class="post-comments-link" href="{{ page.url | prepend: site.baseurl }}#disqus_thread" data-disqus-identifier="{{ page.url }}"></a>
+            </span>
+          {% endif %}
           {% if page.read %}
-            • <span>{{ page.read }}</span>
+            • <span title="Time to read">☕️ {{ page.read }}</span>
           {% endif %}
         </p>
       </header>
@@ -33,3 +39,5 @@ layout: default
     </article>
   </div>
 </div>
+
+<script id="dsq-count-scr" src="//siriniok.disqus.com/count.js" async></script>

@@ -19,8 +19,14 @@ permalink: /articles/
           <span itemprop="name">{{ post.author }}</span>
         </span>
       {% endif %}
+      {% if post.comments %}
+        •
+        <span>
+          📣 <a class="post-comments-link" href="{{ post.url | prepend: site.baseurl }}#disqus_thread" data-disqus-identifier="{{ post.url }}"></a>
+        </span>
+      {% endif %}
       {% if post.read %}
-        • <span>{{ post.read }}</span>
+        • <span title="Time to read">☕️ {{ post.read }}</span>
       {% endif %}
     </span>
 
@@ -34,3 +40,5 @@ permalink: /articles/
     {% include subscription-form.html %}
   </div>
 </div>
+
+<script id="dsq-count-scr" src="//siriniok.disqus.com/count.js" async></script>

@@ -5,7 +5,8 @@ author: Vladyslav Siriniok
 title: Can Technology Make Discussions More Fruitful?
 date: 2019-11-29 10:11:00 +0200
 image: "/uploads/brass-telegraph-692735_960_720.jpg"
-read: ☕️ 3 min
+read: 3 min
+comments: true
 description: Do certain technologies make discussions more or less productive? Maybe,
   you have wondered about that too after having a hot, but unproductive and exhausting,
   discussion on Twitter or some messenger.
