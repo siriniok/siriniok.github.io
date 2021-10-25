@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My MIT Challenge
-date: 2018-09-01 20:00:00 +0200
+date: 2018-09-01T20:00:00.000+02:00
 categories: learning
 comments: true
 author: Vladyslav Siriniok
@@ -12,7 +12,7 @@ redirect_from:
 ---
 Hi, everyone!
 
-I'm Vladyslav Siriniok, a young software engineer and entrepreneur from Kharkiv, Ukraine.
+I'm Vladyslav Siriniok, a software engineer and entrepreneur from Kharkiv, Ukraine.
 
 Like [many](https://en.wikipedia.org/wiki/Bill_Gates) [other](https://en.wikipedia.org/wiki/Mark_Zuckerberg) [guys](https://en.wikipedia.org/wiki/Sam_Altman) in tech I dropped out of my university after a second year of study. And I have no regrets about that.
 
@@ -24,34 +24,32 @@ So since I've got to know about MIT OCW I lived with a plan to complete MIT Unde
 
 And today I start ~~a new life~~ (finally)! Over the next 12-16 months, I’m going to learn the entire 4-year MIT curriculum for computer science with help of materials available on MIT OCW.
 
-
 ## My Goals
 
 1. Obtain fluency in math.
 2. Improve my knowledge about software engineering and design.
 3. Prepare myself to the deep dive into studying AI.
 4. Improve my ability to read CS papers.
-4. Develop ability to write good essays and articles on computer science and tech topics in English.
-
+5. Develop ability to write good essays and articles on computer science and tech topics in English.
 
 ## My Curriculum for 6-3. Computer Science and Engineering
 
 I designed my degree curriculum myself. Yes, MIT provides a pretty flexible curriculum, where the most of courses you can choose on your own. There are only few required classes and two lists with dozens of cources to choose. Also, I skipped humanities because I think MIT OCW is not the best place to take such courses and it's don't correlate with my goals.
 
-
 I had used the latest [MIT curriculum](http://www.eecs.mit.edu/curriculum2016). Also, I used this [catalog](http://catalog.mit.edu/subjects/6/) to get pre- and co-requirements for the courses.
-
 
 ### Intro
 
 ###### [6.001 Structure and Interpretation of Computer Programs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/)
-_\(Prereq: None\)_
+
+_(Prereq: None)_
 January 2018
 
 Actually, new curriculum requires modern 6.0001 program. But I don't want to learn the basics of Python, so I replaced this one with the legendary SICP course. There are two online versions of the book: [original](https://mitpress.mit.edu/sicp/) and [modern](http://sarabander.github.io/sicp/).
 
 ###### [6.01SC Introduction to EE and CS I](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
-_\(Prereq: None; Coreq: Physics II \(GIR\)\)_
+
+_(Prereq: None; Coreq: Physics II (GIR))_
 May 2018
 
 ### Math & Physics
@@ -59,91 +57,109 @@ May 2018
 Apart of the required classes, I'm going to take some additional courses in math (18.03SC, 18.06SC).
 
 ###### [18.01SC Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
-_\(Prereq: None\)_
+
+_(Prereq: None)_
 February 2018
 
 ###### [18.02SC Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
-_\(Prereq: Calculus I \(GIR\)\)_
+
+_(Prereq: Calculus I (GIR))_
 March 2018
 
 ###### [8.01L Physics I: Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01l-physics-i-classical-mechanics-fall-2005/)
-_\(Prereq: None\)_
+
+_(Prereq: None)_
 May 2018
 
 Also, I want to read [The Feynman Lectures on Physics](http://feynmanlectures.caltech.edu/).
 
 ###### [8.02 Physics II: Electricity and Magnetism](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007)
-_\(Prereq: Physics I \(GIR\), Calculus I \(GIR\)\)_
+
+_(Prereq: Physics I (GIR), Calculus I (GIR))_
 June 2018
 
 ###### [6.042J Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
-_\(Prereq: Calculus I \(GIR\)\)_
+
+_(Prereq: Calculus I (GIR))_
 June 2018
 
 ###### [18.03SC Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)
-_\(Prereq: None. Coreq: Calculus II \(GIR\)\)_
+
+_(Prereq: None. Coreq: Calculus II (GIR))_
 October 2018
 
 ###### [18.06SC Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
-_\(Prereq: Calculus II \(GIR\)\)_
+
+_(Prereq: Calculus II (GIR))_
 November 2018
 
 ###### [6.041SC	Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
-_\(Prereq: Calculus II \(GIR\)\)_
-July 2018
 
+_(Prereq: Calculus II (GIR))_
+July 2018
 
 ### Foundation
 
 ###### [6.004 Computation Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009/)
-_\(Prereq: Physics II \(GIR\)\)_
+
+_(Prereq: Physics II (GIR))_
 August 2018
 
 ###### [6.005 Software Construction (or 6.031 if available)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-software-construction-spring-2016/)
-_\(Prereq: 6.01; Coreq: 6.042J\)_
+
+_(Prereq: 6.01; Coreq: 6.042J)_
 August 2018
 
 ###### [6.006 Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
-_\(Prereq: 6.042[J]; 6.01\)_
-September 2018
 
+_(Prereq: 6.042\[J\]; 6.01)_
+September 2018
 
 ### Additional
 
 ###### [6.034 Artificial Intelligence](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
-_\(Prereq: 6.001\)_
+
+_(Prereq: 6.001)_
 July 2018
 
 ###### [6.803 The Human Intelligence Enterprise](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-803-the-human-intelligence-enterprise-spring-2006/)
-_\(Prereq: 6.034\)_
+
+_(Prereq: 6.034)_
 August 2018
 
 ###### [6.050J Information and Entropy](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-050j-information-and-entropy-spring-2008/)
-_\(Prereq: Physics I (GIR)\)_
+
+_(Prereq: Physics I (GIR))_
 July 2018
 
 ###### [6.033 Computer System Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009/)
-_\(Prereq: 6.004; 6.005 or 6.009\)_
+
+_(Prereq: 6.004; 6.005 or 6.009)_
 September 2018
 
 ###### [6.814 Database Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/)
-_\(Prereq: 6.033; 6.046[J] or 6.006\)_
+
+_(Prereq: 6.033; 6.046\[J\] or 6.006)_
 October 2018
 
 ###### [6.045J Automata, Computability, and Complexity](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011/)
-_\(Prereq: 6.042J\)_
+
+_(Prereq: 6.042J)_
 November 2018
 
 ###### [6.172 Performance Engineering of Software Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/)
-_\(Prereq: 6.004, 6.006; 6.005 or 6.031\)_
+
+_(Prereq: 6.004, 6.006; 6.005 or 6.031)_
 November 2018
 
 ###### [6.035 Computer Language Engineering](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-spring-2010/)
-_\(Prereq: 6.004; 6.005 or 6.031\)_
+
+_(Prereq: 6.004; 6.005 or 6.031)_
 December 2018
 
 ###### [6.207J Networks](https://ocw.mit.edu/courses/economics/14-15j-networks-fall-2009/)
-_\(Prereq: 6.041SC\)_
+
+_(Prereq: 6.041SC)_
 December 2018
 
 ## Rules on Exams
