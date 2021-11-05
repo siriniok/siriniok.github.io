@@ -12,34 +12,29 @@ redirect_from:
 ---
 Hi, everyone!
 
-I'm Vladyslav Siriniok, a young software engineer and entrepreneur from Kharkiv, Ukraine.
+I'm Vlad Siriniok, a software engineer and entrepreneur from Kharkiv, Ukraine.
 
-Like [many](https://en.wikipedia.org/wiki/Bill_Gates) [other](https://en.wikipedia.org/wiki/Mark_Zuckerberg) [guys](https://en.wikipedia.org/wiki/Sam_Altman) in tech I dropped out of my university after a second year of study. And I have no regrets about that.
-
-Needless to say, that tech education (and not only tech) in the ex-USSR countries is barely useless and highly corrupt. If you live in the US or another developed country you will probably say "Yeah, I know what you feel, bruh, our universities are total shit too". But believe me, you can't even imagine how low is quality of education here. And honestly, I've always dreamed about graduating in some American university, like MIT or Stanford.
+Like [many](https://en.wikipedia.org/wiki/Bill_Gates) [other](https://en.wikipedia.org/wiki/Mark_Zuckerberg) [guys](https://en.wikipedia.org/wiki/Sam_Altman) in tech I dropped out of my university after a second year of study. And I have no regrets about that—tech universities in Ukraine is not the best place to actually learn something. But honestly, I've always dreamed about receiving a degree from an American university, like MIT or Berkeley.
 
 Fortunately, [we're all living in America](https://www.youtube.com/watch?v=Rr8ljRgcJNM). I mean, today, in the era of the Internet, anyone has an access to a world-class education. Massive online courses, online degrees, whatever.
 
-So since I've got to know about MIT OCW I lived with a plan to complete MIT Undergraduate program in Computer Science with help of only MIT OCW materials. Later, I found an article written by [Scott H. Young](https://twitter.com/ScottHYoung) about [his experience](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/) in learning the entire 4-year MIT curriculum for computer science, without taking any classes. It finally motivated and convinced me in achievability of such crazy goal.
+So since I've learned about MIT OCW I lived with a plan to complete MIT Undergraduate program in Computer Science using only MIT OCW materials. Later, I found an article written by [Scott H. Young](https://twitter.com/ScottHYoung) about [his experience](https://www.scotthyoung.com/blog/myprojects/mit-challenge-2/) in studying through the entire 4-year MIT computer science curriculum, without taking any classes. He finally motivated and convinced me in attainability of such crazy goal.
 
-And today I start ~~a new life~~ (finally)! Over the next 12-16 months, I’m going to learn the entire 4-year MIT curriculum for computer science with help of materials available on MIT OCW.
+And today I begin ~~a new life~~ (finally)! Over the next few  years, I’m going to study through the entire 4-year MIT curriculum for computer science with help of materials available on MIT OCW.
 
 
 ## My Goals
 
 1. Obtain fluency in math.
-2. Improve my knowledge about software engineering and design.
-3. Prepare myself to the deep dive into studying AI.
-4. Improve my ability to read CS papers.
-4. Develop ability to write good essays and articles on computer science and tech topics in English.
+1. Improve my knowledge about software engineering and design.
+1. Prepare myself to the deep dive into studying AI.
+1. Improve my ability to read CS papers.
+1. Develop an ability to write good essays and articles on computer science and tech topics in English.
 
 
-## My Curriculum for 6-3. Computer Science and Engineering
+## 6-3. Computer Science and Engineering Curriculum
 
-I designed my degree curriculum myself. Yes, MIT provides a pretty flexible curriculum, where the most of courses you can choose on your own. There are only few required classes and two lists with dozens of cources to choose. Also, I skipped humanities because I think MIT OCW is not the best place to take such courses and it's don't correlate with my goals.
-
-
-I had used the latest [MIT curriculum](http://www.eecs.mit.edu/curriculum2016). Also, I used this [catalog](http://catalog.mit.edu/subjects/6/) to get pre- and co-requirements for the courses.
+I've used the latest [MIT curriculum](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/). Also, I used this [catalog](http://catalog.mit.edu/subjects/6/) to get pre- and co-requirements for the courses.
 
 ### General Institute Requirements (GIRs)
 
@@ -126,7 +121,7 @@ Prereq: None. Coreq: Calculus II (GIR),
 Prereq: None,
 18 Units
 
-Actually, new curriculum requires modern 6.0001 program. But I don't want to learn the basics of Python, so I replaced this one with the legendary SICP course. There are two online versions of the book: [original](https://mitpress.mit.edu/sicp/) and [modern](http://sarabander.github.io/sicp/).
+Actually, new curriculum requires modern 6.0001 program. But I don't want to learn the basics of Python, so I replaced this one with the legendary SICP course. There are two online versions of the textbook: [original](https://mitpress.mit.edu/sicp/) and [modern](http://sarabander.github.io/sicp/).
 
 ##### [6.042J Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
 Prereq: Calculus I (GIR),
@@ -208,6 +203,8 @@ Prereq: 6.034, 6.041,
 
 ## 9. Minor in Brain and Cognitive Sciences
 
+I've used the latest [MIT curriculum](http://catalog.mit.edu/schools/science/brain-cognitive-sciences/#brain-cognitive-science-minor). Also, I used this [catalog](http://catalog.mit.edu/subjects/9/) to get pre- and co-requirements for the courses.
+
 Courses marked with * were included into the 6-3 curriculum.
 
 ### Core Subjects
@@ -243,13 +240,13 @@ Prereq: 9.00, 9.01, and 9.85,
 I'm going to imitate the MIT's examination rules to get my self-assessments right. Here are some of them:
 
 1. I will write the exams under the same time and material constraints (no looking at the questions or solutions beforehand, no notes or forbidden things). If the time constraints not specified I will try to pass exam in default 3 hours.
-2. I have to get a grade on final exams of at least 80%.
-3. I will grade the papers myself, comparing them to the actual MIT solutions. I'll place both on Google Drive, so anyone would be able to double-check my grading methods.
+2. I have to get at least an 80% grade on final exam.
+3. I will grade the papers myself, comparing them to the actual MIT solutions or answers on the Internet. I'm going to place my exam papers on Github, so anyone will be able to check my answers and grading.
 
 ## F.A.Q.
 
-**1.** **How much I gonna work during the challenge?**
-It depends. I don't have plenty of time, but I want to study at least 12-18 hours per week.
+**1.** **How much you're gonna work during the challenge?**
+It depends. I don't have a lot of time, but I want to study at least 12-16 hours per week.
 
 **2.** **Do you have any plans to get an actual degree (from MIT or other college)?**
-No, and it is not a point of the challenge. I rather have dreams than plans. But if you live in the US and you're interested in getting a DIY degree, as fast as possible, then you can follow this [article](https://www.scotthyoung.com/blog/2012/07/04/the-diy-degree/) up.
+No, and it is not the point of this challenge, I rather have dreams than plans. But if you're living in the US and you're interested in getting a DIY degree, as fast as possible, then you can follow this [path](https://www.scotthyoung.com/blog/2012/07/04/the-diy-degree/).
