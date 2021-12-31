@@ -69,7 +69,7 @@ According to this test, my primary core value is **“Innovator“** and the sec
 
 \[[Link](https://www.lifevaluesinventory.org/index.html)\]
 
-**Validity:** Doubtful. But seems to be based on the PVQ test below.
+**Validity:** All seem to be based on the PVQ test which is backed by some studies.
 
 **Resemblance:** High
 
