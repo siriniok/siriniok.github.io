@@ -52,5 +52,5 @@ fields:
       format: markdown
   label: description
 pages:
+- _posts/2021-12-31-what-really-guides-me-part-i.md
 - _posts/shitty-mvp.md
-- _posts/what-really-guides-me-part-i.md
