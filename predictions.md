@@ -1,7 +1,7 @@
 ---
-layout: page
 title: My Predictions
-permalink: /predictions/
+permalink: "/predictions/"
+layout: page
 ---
 
 This is a track record of all my publicly-disclosed predictions.

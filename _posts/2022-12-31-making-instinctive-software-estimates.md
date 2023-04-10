@@ -1,13 +1,14 @@
 ---
-categories: software-engineering
+title: Making Instinctive Software Estimates
+date: 2022-12-31 21:01:00 Z
+categories:
+- software-engineering
 layout: post
 author: Vladyslav Siriniok
-title: Making Instinctive Software Estimates
-date: 2022-12-31 23:01:00 +0200
 image: ''
 description: ''
-
 ---
+
 I want to give you some insight in how I do my estimates. But it's a pretty substantial topic, and it would take a book to explain it properly. So please excuse me if my explanations won't sound sufficient sometimes, I will be happy to discuss those moments later. :)
 
 My estimates are represented by two variables—**duration** and a **likelihood of success**.

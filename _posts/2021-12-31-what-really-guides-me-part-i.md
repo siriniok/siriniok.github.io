@@ -1,14 +1,15 @@
 ---
-categories: self-reflections
+title: What Really Guides Me? Part I
+date: 2021-12-31 20:12:00 Z
+categories:
+- self-reflections
 layout: post
 author: Vladyslav Siriniok
-title: What Really Guides Me? Part I
-date: 2021-12-31 22:12:00 +0200
 image: ''
 description: I tried a few personal values assessments to answer this question, here's
   what I learned
-
 ---
+
 Facing lots of changes coming into my life, I had to once again ask myself “What really guides me?“. Psychology and common wisdom say that our values guide us, so that’s where I started to look for the answers. 
 
 To get more or less objective picture, this time I decided to begin with some science-backed self-assessments. There are a lot of personal values tests you can find on the Internet, but as far as I know, there is no a de-facto standard, like Big Five personality traits assessment. Many of them represent the bleeding edge ongoing research, but most of them are likely just a junk. So I’ve tried a bunch of tests to evaluate their results on my own.

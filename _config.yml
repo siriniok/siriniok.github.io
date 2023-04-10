@@ -1,4 +1,13 @@
+---
 title: Vladyslav Siriniok
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 author: Vladyslav Siriniok
 email: vlad@siriniok.me
 twitter:
@@ -7,26 +16,24 @@ twitter:
 social:
   name: Vladyslav Siriniok
   links:
-    - https://twitter.com/siriniok
-    - https://facebook.com/siriniok
-    - https://ua.linkedin.com/in/siriniok
-    - https://github.com/siriniok
-description: >
-  A blog on tech and science by Vladyslav Siriniok
-url: "https://siriniok.me"
+  - https://twitter.com/siriniok
+  - https://facebook.com/siriniok
+  - https://ua.linkedin.com/in/siriniok
+  - https://github.com/siriniok
+description: 'A blog on tech and science by Vladyslav Siriniok
+
+'
+url: https://siriniok.me
 permalink: pretty
 twitter_username: siriniok
-github_username:  siriniok
-
-# Build settings
+github_username: siriniok
 markdown: kramdown
 exclude:
-  - docs
-
+- docs
 plugins:
-  - octopress-debugger
-  - jekyll-redirect-from
-  - jekyll-twitter-plugin
-  - jekyll-gist
-  - jekyll-seo-tag
-  - jekyll-sitemap
+- octopress-debugger
+- jekyll-redirect-from
+- jekyll-twitter-plugin
+- jekyll-gist
+- jekyll-seo-tag
+- jekyll-sitemap

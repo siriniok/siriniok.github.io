@@ -1,17 +1,18 @@
 ---
-categories: notes
+title: Can Technology Make Discussions More Fruitful?
+date: 2019-11-29 08:11:00 Z
+categories:
+- notes
 layout: post
 author: Vladyslav Siriniok
-title: Can Technology Make Discussions More Fruitful?
-date: 2019-11-29 10:11:00 +0200
 image: "/uploads/brass-telegraph-692735_960_720.jpg"
 read: 3 min
 comments: true
 description: Do certain technologies make discussions more or less productive? Maybe,
   you have wondered about that too after having a hot, but unproductive and exhausting,
   discussion on Twitter or some messenger.
-
 ---
+
 ![](/uploads/brass-telegraph-692735_960_720.jpg)
 
 Throughout the history of our civilization, the speed of long-distance communications tends to raise. It started with messenger horses and pigeon post, and likely ended with video calls and chat messengers[^1]. I'd say conservatively, no one needs faster communications than we have today, and even if you can imagine something more rapid, like quantum telepathic networks organized through a brain-computer interface, you will probably agree that our communication technologies are fast enough for our daily needs.

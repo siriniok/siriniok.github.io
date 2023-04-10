@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Product Consulting
-permalink: /consulting/
+permalink: "/consulting/"
+layout: page
 ---
 
 Coming soon

@@ -1,7 +1,7 @@
 ---
-layout: page
 title: Example
-permalink: /example/
+permalink: "/example/"
+layout: page
 ---
 
 {:.caption}
