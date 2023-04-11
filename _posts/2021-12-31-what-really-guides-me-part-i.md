@@ -66,7 +66,7 @@ According to this test, my primary core value is **“Innovator“** and the sec
 
 ## 4) Find Your Values Test
 
-\[[Link](http://findyourvalues.com/personality-test/)\]
+\[[Link](https://www.findyourvalues.com/)\]
 
 ## 5) Life Values Inventory
 
@@ -102,6 +102,8 @@ Despite all the tests have been very different, I’ve got pretty similar result
 
 Also, I’m honestly wondering, aren’t these results too good? None of the tests asked me whether I like killing little kittens. I mean, I definitely do not, but none of the tests included any “dark“ values and I don’t understand why do psychologists have such high faith in humanity. Do these tests give an “honest” picture or just a “feel-good” one? That's worth exploring as well.
 
+Another objections against all these tests is that all their dimensions feel rather arbitrary and many of them do not look like fundamental values worth to be a core of one's identity.
+
 And finally, here is my free interpretation and summary for what my top-5 core values are based on all the tests above:
 
 * intelligence & wisdom
@@ -114,4 +116,4 @@ And finally, here is my free interpretation and summary for what my top-5 core v
 
 * security
 
-In the next stage, I want to concretize my values and derive my core principles from them. So please stay tuned :).
+In the next stage, I want to make my values more specific and derive my core principles from them. So please stay tuned :).
